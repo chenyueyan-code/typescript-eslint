@@ -46,7 +46,7 @@
     "@typescript-eslint/typescript-estree": "5.47.0",
     "eslint-scope": "^5.1.1",
     "eslint-utils": "^3.0.0",
-    "semver": "^7.3.7"
+    "semver": "^7.5.2"
   },
   "peerDependencies": {
     "eslint": "^6.0.0 || ^7.0.0 || ^8.0.0"
