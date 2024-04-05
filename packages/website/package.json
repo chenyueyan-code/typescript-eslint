@@ -24,7 +24,7 @@
     "@typescript-eslint/parser": "5.47.0",
     "@typescript-eslint/website-eslint": "5.47.0",
     "clsx": "^1.1.1",
-    "eslint": "*",
+    "eslint": "9.0.0",
     "json-schema": "^0.4.0",
     "json-schema-to-typescript": "^11.0.1",
     "json5": "^2.2.1",
