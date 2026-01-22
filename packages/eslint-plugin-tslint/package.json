@@ -39,7 +39,7 @@
   },
   "dependencies": {
     "@typescript-eslint/utils": "5.47.0",
-    "lodash": "^4.17.21"
+    "lodash": "^4.17.23"
   },
   "peerDependencies": {
     "eslint": "^6.0.0 || ^7.0.0 || ^8.0.0",
